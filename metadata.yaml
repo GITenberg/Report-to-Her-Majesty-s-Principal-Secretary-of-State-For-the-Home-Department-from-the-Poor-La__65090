@@ -1,0 +1,30 @@
+_repo: Report-to-Her-Majesty-s-Principal-Secretary-of-State-For-the-Home-Department-from-the-Poor-La__65090
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chadwick, Edwin
+    alias: Chadwick, Edwin, Sir
+    birthdate: 1800
+    deathdate: 1890
+    gutenberg_agent_id: '47969'
+    url: http://www.gutenberg.org/2009/agents/47969
+  - agent_name: Wheatstone, Charles
+    gutenberg_agent_id: '53180'
+    url: http://www.gutenberg.org/2009/agents/53180
+description: ''
+gutenberg_issued: '2021-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Report to Her Majesty''s Principal Secretary of State For the Home Department,
+  from the Poor Law Commissioners,
+
+  on an Inquiry Into the Sanitary Condition of the Labouring Population of Great Britain;
+  With Appendices'
+url: http://www.gutenberg.org/ebooks/65090
